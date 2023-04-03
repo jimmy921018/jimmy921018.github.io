@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>印象派藝術家介紹</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f0f0f0;
+		}
+
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: #fff;
+			box-shadow: 0 2px 4px rgba(0,0,0,.1);
+		}
+
+		h1 {
+			text-align: center;
+			font-size: 36px;
+			margin-bottom: 40px;
+		}
+
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+
+		li {
+			margin-bottom: 20px;
+			padding: 20px;
+			background-color: #f5f5f5;
+			border-radius: 10px;
+		}
+
+		h2 {
+			font-size: 24px;
+			margin-bottom: 20px;
+		}
+
+		p {
+			margin-bottom: 10px;
+		}
+
+		a {
+			color: #333;
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+		a:hover {
+			color: #666;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>印象派藝術家介紹</h1>
+		<ul>
+			<li>
+				<h2>克勒德·莫內</h2>
+				<p>《睡蓮池》</p>
+				<p>《晴天的午後，珍妮·伊莎貝爾大道》</p>
+				<p>《印象·日出》</p>
+			</li>
+			<li>
+				<h2>爱德加·德加</h2>
+				<p>《舞蹈课》</p>
+				<p>《舞台上的音乐家》</p>
+				<p>《舞女》</p>
+			</li>
+			<li>
+				<h2>莫里斯·德·芬</h2>
+				<p>《午餐後的休息時間》</p>
+				<p>《銀杏樹》</p>
+				<p>《落葉樹下的旅人》</p>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>
