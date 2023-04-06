@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>印象派藝術家介紹</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f0f0f0;
+		}
+		h1 {
+			font-size: 48px;
+			text-align: center;
+			margin-top: 50px;
+			margin-bottom: 20px;
+			color: #6C757D;
+			text-shadow: 1px 1px #C9D1D3;
+		}
+		h2 {
+			font-size: 36px;
+			margin-top: 30px;
+			margin-bottom: 20px;
+			color: #6C757D;
+			text-shadow: 1px 1px #C9D1D3;
+		}
+		p {
+			font-size: 24px;
+			margin-bottom: 10px;
+			color: #6C757D;
+			text-shadow: 1px 1px #C9D1D3;
+		}
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		li {
+			margin: 20px;
+			padding: 20px;
+			background-color: #fff;
+			border-radius: 20px;
+			box-shadow: 3px 3px 10px #C9D1D3;
+			flex-basis: 300px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			margin-bottom: 20px;
+			box-shadow: 3px 3px 10px #C9D1D3;
+			border-radius: 20px;
+		}
+		figcaption {
+			font-size: 18px;
+			color: #6C757D;
+			text-shadow: 1px 1px #C9D1D3;
+			margin-top: 10px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>印象派藝術家介紹</h1>
+	</header>
+	<main>
+		
+			<li>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Claude_Monet_1899_Nadar_crop.jpg/320px-Claude_Monet_1899_Nadar_crop.jpg" alt="Claude Monet">
+				<figcaption>Claude Monet (1840-1926)</figcaption>
+				<p>法國印象派畫家，以描繪自然景色著稱。主張在自然光線下現場觀察，捕捉自然光的色彩變化。</p>
+			</li>
+      <h1>測試用文字12345</h1>
+<h2> 測試用文字12345</h2>
+<p>測試用文字12345</p>
+</body>
